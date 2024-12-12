@@ -1,0 +1,354 @@
+layout,title,image,tags,date,video
+post,Event#118 Deeplearning4j,/images/default.jpg,"['Deeplearning4j', 'ML']",2019-07-15 16:15:00 +0200,
+post,Event#319 Pkl Lang,/images/feed.jpg,"['Pkl', 'Java']",2024-04-22 13:02:00 +0000,EGd2ONWKBRg
+post,Event#68 Tic Tac Toe Summary,/images/default.jpg,"['gRPC', 'Summary']",2018-07-19 17:58:00 +0200,
+post,Event#67 gRPC Summary,/images/default.jpg,"['gRPC', 'Summary']",2018-07-12 11:6:00 +0200,
+post,Event#216 Object Audit and Diff with JaVers,/images/feed.jpg,"['Java', 'JaVers']",2022-01-17 19:07:39 +0000,RxYNF8BxwjI
+post,Event#47 Spring 5,/images/default.png,"['Spring5', 'Coding']",2018-02-06 16:30:00 +0200,
+post,Event#207 Apache NiFi,/images/default.jpg,"['Framework', 'Distributed system', 'Distributed process', 'Distributed data']",2021-11-08 15:39:16 +0000,NiCVKmNrUzM
+post,Event#57 Docker Practice Summary,/images/default.jpg,"['Docker', 'Containers', 'Java', 'Coding', 'Summary']",2018-04-27 15:21:00 +0200,
+post,Event#55 Spring Security OAuth 2.0,/images/default.jpg,"['OAuth', 'Security', 'Coding', 'Spring', 'Springframework']",2018-04-11 09:42:00 +0200,
+post,Event#131 Consumer-driven contracts,/images/default.jpg,['Consumer driven contracts'],2019-10-23 18:11:00 +0200,
+post,Event#171 Debezium,/images/default.jpg,['Debezium'],2021-03-02 18:48:18 +0000,Z6tIynmKsIc
+post,Event#70 gRPC Coding,/images/default.jpg,"['gRPC', 'TicTacToe']",2018-07-31 10:35:00 +0200,
+post,Event#204 Spring Authorization Server Overview,/images/default.jpg,"['OAuth', 'Spring']",2021-10-18 14:01:18 +0000,tT1pw5A4Rf0
+post,Event#306 IFTTT with Ihor Banadiga,/images/feed.jpg,['IFTTT'],2024-01-24 00:13:18 +0000,HfvxwaX-o-4
+post,Event#271 Docker Image,/images/feed.jpg,"['Docker', 'Image']",2023-05-01 14:08:31 +0000,RS8w9HWKGeM
+post,Event#214 Summary 2021,/images/default.jpg,['Summary'],2021-12-29 10:22:22 +0000,qZjwlAcOATM
+post,Event#126 GraalVM,/images/default.jpg,['GraalVM'],2019-09-16 16:44:00 +0200,
+post,Event#87 DevoxUa follow-up summary,/images/default.jpg,"['DevOxx Ukraine', 'Summary', 'Conference']",2018-11-29 11:35:00 +0200,
+post,Event#159 review MapStruct,/images/default.jpg,"['MapStruct', 'Video']",2020-11-24 14:31:00 +0200,0fNKc0daZ-c
+post,Event#65 GraphQL in action,/images/default.jpg,['GraphQL'],2018-06-18 16:48:00 +0200,
+post,Event#50 HTTP2,/images/default.jpg,"['Http2', 'Jetty', 'Coding', 'Https']",2018-02-26 16:54:00 +0200,
+post,Event#128 JavaDay Odessa + Java 13,/images/default.jpg,"['JavaDay', 'Conference', 'Java', 'JVM']",2019-10-02 14:51:00 +0200,
+post,Event#150 Three-year JavaClube,/images/default.jpg,"['Pizza', 'BOF']",2020-03-05 11:17:00 +0200,
+post,Event#208 Feign Annotation Contract,/images/default.jpg,"['Feign', 'Java']",2021-11-16 09:00:42 +0000,zHQVgz0Ax1g
+post,Event#309 Exception Handling in JAVA Spring,/images/feed.jpg,"['Java', 'Spring', 'ExceptionsHandling']",2024-02-13 08:18:52 +0000,hA1SU-rZ3uw
+post,Event#79 AWS Lambda coding session 3 summary,/images/default.jpg,"['DynamoDB', 'AWS', 'Lambda']",2018-10-04 15:51:00 +0200,
+post,Event#54 Spring Security OAuth 2.0,/images/default.jpg,"['OAuth', 'Security', 'Coding', 'Spring', 'Springframework']",2018-04-03 15:08:00 +0200,
+post,Event#268 AWS Glue,/images/feed.jpg,"['AWS', 'Glue', 'AWSGlue', 'ETL', 'AWS', 'JavaClub']",2023-04-10 14:13:06 +0000,ClfR-n1hRdA
+post,Event#82 Networking,/images/default.jpg,"['Networking', 'Workshop']",2018-10-23 18:57:00 +0200,
+post,Event#249 Spring 6 and Sprint Boot 3,/images/feed.jpg,"['Spring', 'Springframework', 'Springboot', 'Boot']",2022-11-22 11:54:11 +0000,5kRowUYBBa8
+post,Event#323 WildFly - a modular application server,/images/feed.jpg,"['jakarta ee', 'jboss', 'wildfly', 'application server', 'enterprise', 'modular']",2024-05-22 07:34:19 +0000,2DZs_9qjCMM
+post,Event#335 Locks in hibernate by Andriy Riy,/images/feed.jpg,"['JPA', 'Hibernate', 'Locks']",2024-08-13 06:32:43 +0000,nVq81fgHOzg
+post,Event#115 Knative Practice,/images/default.jpg,"['Knative', 'Kubernetes', 'k8s']",2019-06-24 16:16:00 +0200,
+post,Event#136 Resilience4j,/images/default.jpg,"['Resilience4j', 'Netflix', 'Hystrix']",2019-11-25 16:8:00 +0200,
+post,Event#62 Kubernetes,/images/default.jpg,"['Kubernetes', 'k8s']",2018-05-29 16:52:00 +0200,
+post,Event#318 Security and Vulnerability Testing - by Ihor Didyk,/images/feed.jpg,"['vulnerability testing', 'security testing']",2024-04-15 12:36:39 +0000,JoiEigeKGgw
+post,Event#165 Spring Cloud Config,/images/default.jpg,"['Spring', 'Cloud']",2021-01-18 13:42:05 +0000,o5VPyb58vTU
+post,Java Club 2018 Wrap UP,/images/default.jpg,['BOF'],2018-12-27 14:4:00 +0200,
+post,Event#303 2023 in facts and emotions,/images/feed.jpg,"['year2023', 'review', 'retro', 'retrospective', 'IT', 'industry', 'Ukraine', 'java']",2023-12-18 14:48:36 +0000,
+post,Event#277 multitenancy-hibernate,/images/feed.jpg,"['hibernate', 'persistence', 'multitenancy']",2023-06-13 15:28:24 +0000,uXuMzQ-d4Xg
+post,Event#352 rlang by Sergii Bishyr,/images/feed.jpg,"['rlang', 'data', 'visualisation', 'language', 'data science']",2024-12-09 13:04:23 +0000,
+post,Event#313 Chaos Mesh,/images/feed.jpg,"['chaos engineering', 'chaos mesh', 'kubernetes']",2024-03-12 08:20:44 +0000,KZoi7DfReNk
+post,Event#60 Java Test Frameworks Battle,/images/default.jpg,"['JUnit', 'Testing', 'Coding']",2018-05-15 10:30:00 +0200,
+post,Event#53 Google OAuth 2.0,/images/default.jpg,"['OAuth', 'Security', 'Coding', 'Google']",2018-03-26 16:51:00 +0200,
+post,Event#144 Spring Cloud Schema Registry,/images/default.jpg,"['Spring Cloud', 'Schema register']",2020-01-29 15:21:00 +0200,
+post,Event#264 Spring Modulith,/images/feed.jpg,"['SpringModulith', 'JavaMonolith']",2023-03-13 18:27:21 +0000,cuy1_yt8W9I
+post,Event#44 WebSocket,/images/default.png,"['Websocket', 'Coding']",2018-01-16 16:30:00 +0200,
+post,Event#245 Publishing a Maven artifact to Github Packages,/images/feed.jpg,"['Publishing', 'Maven', 'Github']",2022-10-24 12:25:34 +0000,Jx_sJlWYVH8
+post,Event#310 PostgreSQL stor,/images/feed.jpg,"['postgres', 'postresql', 'db', 'database', 'storage']",2024-02-20 08:09:13 +0000,YmRu7AGyoqw
+post,Event#78 AWS Lambda coding session 2 summary,/images/default.jpg,"['AWS Lambda', 'AWS', 'API Gateway']",2018-09-27 11:32:00 +0200,
+post,Event#242 argoCD,/images/feed.jpg,['ArgoCD'],2022-10-03 18:18:43 +0000,YPHun-9v92w
+post,Event#51 One year Summary,/images/default.jpg,"['BOF', 'Pizza']",2018-03-15 12:37:00 +0200,
+post,Event#55 Spring Security OAuth 2.0 Summary,/images/default.jpg,"['Summary', 'OAuth', 'Security', 'Coding', 'Spring', 'Springframework']",2018-04-13 18:22:00 +0200,
+post,Event#48 Reactive Spring,/images/default.png,"['Spring', 'Reactive programming', 'MongoDB', 'Websocket', 'Coding']",2018-02-13 16:28:00 +0200,
+post,Event#52 OAuth 2.0,/images/default.jpg,"['OAuth', 'Security', 'Intro']",2018-03-20 12:17:00 +0200,
+post,Event#59 JUnit 5 - Summary,/images/default.jpg,"['JUnit', 'Testing']",2018-05-10 12:56:00 +0200,
+post,Event#233 VMs and Containers part 2,/images/feed.jpg,"['KVM', 'LXC', 'VMs', 'Containers']",2022-08-01 09:11:56 +0000,
+post,Event#185 Quarkus,/images/default.jpg,['QUARKUS'],2021-05-31 12:07:09 +0000,gIaNEFG3jV4
+post,Event#205 Git internals,/images/default.jpg,"['Git', 'Internals']",2021-10-27 14:24:31 +0000,Xk5hH79dCBU
+post,Event#98 Elasticsearch coding,/images/default.jpg,"['Elasticsearch', 'Coding']",2019-02-19 16:19:00 +0200,
+post,Event#112 JMH,/images/default.jpg,['JMH'],2019-06-03 16:7:00 +0200,
+post,Event#211 Failsafe,/images/default.jpg,"['Fault Tolerance', 'Library', 'Java 8+', 'Failures', 'Error Handling']",2021-12-07 09:04:34 +0000,2kc71XQcmbk
+post,Event#106 Derive4j,/images/default.jpg,['Derive4j'],2019-04-16 17:27:00 +0200,
+post,Event#94 Spring Cloud Function coding,/images/default.jpg,"['Spring Cloud', 'Riff', 'Coding']",2019-01-21 16:49:00 +0200,
+post,Event#158 Orchestration saga pattern,/images/default.jpg,"['Saga', 'Statemachine', 'Spring Statemachine', 'Video']",2020-11-17 19:5:00 +0200,6z1t_7Ado6w
+post,Event#57 Docker practice,/images/default.jpg,"['Docker', 'Containers', 'Java', 'Coding']",2018-04-23 17:50:00 +0200,
+post,Event #90 Prometheus Pushgateway and Grafana summary,/images/default.jpg,"['Prometheus', 'Pushgateway', 'Grafana', 'Summary']",2018-12-21 11:9:00 +0200,
+post,Event#169 Mock a file system,/images/default.jpg,"['Testing', 'Mock', 'Filesystem']",2021-02-17 20:20:22 +0000,tHFXl5rC4n4
+post,Event#329 eureka-dsicovery-service by Oleksandr Belinskyi,/images/feed.jpg,"['discovery', 'msa', 'microservice', 'eureka', 'pattern', 'java']",2024-07-02 06:44:28 +0000,hqPAtLOwu0U
+post,Event#241 Awaitility,/images/feed.jpg,"['Awaitility', 'DSL', 'Testing']",2022-09-26 14:00:34 +0000,wyOInZvgPEc
+post,Event #91 Happy Holidays!,/images/default.jpg,['BOF'],2018-12-26 14:13:00 +0200,
+post,Event#180 Flyway,/images/default.jpg,"['Java', 'Flyway', 'Spring']",2021-04-28 07:17:37 +0000,vxzCFrStI3U
+post,Event#263 Offline birthday event,/images/feed.jpg,"['Offline', 'birthday']",2023-03-06 13:46:11 +0000,
+post,Event#275 OpenRewrite,/images/feed.jpg,['OpenRewrite'],2023-05-29 14:14:23 +0000,9ofwOR9AqSY
+post,Event#54 Spring Security OAuth 2.0 Summary,/images/default.jpg,"['Summary', 'OAuth', 'Security', 'Coding', 'Spring', 'Springframework']",2018-04-05 12:14:00 +0200,
+post,Event#190 Byte Buddy,/images/default.jpg,"['ByteBuddy', 'Java']",2021-07-05 12:13:55 +0000,Y7VKCc0eh4M
+post,Event#89 Monitoring applications with Prometheus,/images/default.jpg,"['Prometheus', 'Monitoring', 'Alerting']",2018-12-13 12:51:00 +0200,
+post,Event#86 Axon Framework Coding,/images/default.jpg,"['Coding', 'SQRS', 'Axon']",2018-11-19 16:27:00 +0200,
+post,Event#292 JUnit Rules by Ihor Banadiga,/images/feed.jpg,"['JUnit', 'Testing']",2023-10-02 19:09:42 +0000,Aq2bDAafE2g
+post,Event#305 Mongock by Dmytro Khonko,/images/feed.jpg,['Mongock'],2024-01-15 21:24:24 +0000,b5kXvsu1iMA
+post,Event#328 Hasura by Ivan Shevtsov,/images/feed.jpg,['Hasura'],2024-06-24 17:25:52 +0000,RTM8FugtBXE
+post,Event#132 Consumer-driven contracts,/images/default.jpg,['Consumer driven contracts'],2019-10-30 19:55:00 +0200,
+post,Event#278 WebAssembly,/images/feed.jpg,"['WASM', 'WebAssembly', 'Web']",2023-06-19 14:05:08 +0000,VOO5ZkzGnaw
+post,Event#256 Testcontainers,/images/feed.jpg,"['Testcontainers', 'Testing', 'Junit']",2023-01-16 15:07:24 +0000,lsHXwbNJC44
+post,Event#351 piranha by Jaroslav Mazurak,/images/feed.jpg,['ProjectX'],2024-12-02 17:37:40 +0000,
+post,Event#228 Java Caching,/images/feed.jpg,"['Java', 'Caching']",2022-06-20 14:11:10 +0000,KPttIOjW47Y
+post,Event#281 3D printing - a toy or an irreplaceable tool,/images/feed.jpg,"['3D printing', 'cura', 'fusion360', 'FDM']",2023-07-11 12:21:33 +0000,e9qlwZt_H4g
+post,Event#194 Filters in Spring Security,/images/default.jpg,"['Spring', 'Security']",2021-08-02 18:20:08 +0000,
+post,Event#157 Transactional annotation,/images/default.jpg,"['Transactional', 'Video']",2020-11-09 15:58:00 +0200,prM3l6G2YkQ
+post,Event #90 Prometheus Pushgateway and Grafana.,/images/default.jpg,"['Pushgateway', 'Grafana']",2018-12-17 16:19:00 +0200,
+post,Event#276 Resilience patterns,/images/feed.jpg,"['resilience', 'patterns', 'fault-tolerance']",2023-06-05 14:05:46 +0000,9ofwOR9AqSY
+post,Event#307 Perceptual vs Cryptographic Hashing,/images/feed.jpg,"['hashing', 'cryptography', 'security']",2024-01-30 09:20:10 +0000,Jru5o1yl_6c
+post,Event# 193 Flogger,/images/default.jpg,"['Flogger', 'Loging', 'Log']",2021-07-26 17:48:17 +0000,GtalaG9pRqY
+post,Event#342 Blaze Persistence by Volodymyr Yastrubchak,/images/feed.jpg,"['Blaze', 'Persistence']",2024-10-02 15:52:58 +0000,pVDu3VnMXY4
+post,Event#187 Immutables,/images/default.jpg,"['Immutables', 'Java', 'Annotation', 'Library']",2021-06-15 12:17:55 +0000,g4RDVESbfn4
+post,Event#293 Kustomize,/images/feed.jpg,"['kubernetes', 'deployment', 'kustomize', 'devops']",2023-10-10 07:10:38 +0000,0TDxZrcYzws
+post,Event#152 Java 15,/images/default.jpg,"['Java', 'JVM', 'Video']",2020-10-05 15:56:00 +0200,Iv054AYQwyA
+post,Event#79 AWS Lambda coding session 3,/images/default.jpg,"['DynamoDB', 'AWS', 'Lambda']",2018-10-01 16:18:00 +0200,
+post,Event#198 RSocket,/images/default.jpg,"['Reactive', 'Protocol', 'Socket', 'Reactive streams', 'RSocket']",2021-08-31 12:56:22 +0000,5Ov709eVkHw
+post,Event#294 Virtual threads witth springboot app,/images/feed.jpg,"['VirtualThreads', 'SpringBoot']",2023-10-16 14:58:24 +0000,Nda3MvKiXhA
+post,Event#72 Hazelcast summary,/images/default.jpg,"['Hazelcast', 'Summary']",2018-08-16 20:4:00 +0200,
+post,Event#125 Yourkit and VisualVM,/images/default.jpg,"['Yourkit', 'VisualVM']",2019-09-10 14:57:00 +0200,
+post,Event#291 Java embedded TCL,/images/feed.jpg,"['Java', 'Embeded']",2023-09-25 16:08:05 +0000,fhmGEeCRQfQ
+post,Event#339 Spring for GraphQL by Volodymyr Kurylo,/images/feed.jpg,"['Spring', 'GraphQL']",2024-09-10 16:35:59 +0000,PW8NbNhk_pA
+post,Event#81 AWS Lambda coding session 5 Summary,/images/default.jpg,"['AWS SNS', 'AWS Lambda', 'AWS', 'AWS Rekognition', 'Coding', 'Summary', 'Recognition']",2018-10-18 14:5:00 +0200,
+post,Event#213 AWS BigData toolset,/images/default.jpg,"['AWS', 'BIGDATA']",2021-12-21 13:57:48 +0000,I1hp5K8u9hA
+post,Event#173 Corda,/images/default.jpg,['Corda'],2021-03-16 09:07:02 +0000,O8RQFILMzGk
+post,Event#338 Google function by Ihor Banadiga,/images/feed.jpg,"['Google', 'function']",2024-09-02 19:46:05 +0000,ig5TCXM-Xbs
+post,Event #100 Elasticsearch in practice,/images/default.jpg,['Elasticsearch'],2019-03-05 14:33:00 +0200,
+post,Event#73 Hazelcast,/images/default.jpg,"['Hazelcast', 'Spring', 'Cache']",2018-08-20 17:23:00 +0200,
+post,Event#155 Refactoring Patterns - In practice,/images/default.jpg,"['Refactoring Patterns', 'Video']",2020-10-26 15:11:00 +0200,UKEMHCUFDnw
+post,Event#76 AWS Lambda,/images/default.jpg,"['AWS Lambda', 'AWS']",2018-09-10 18:43:00 +0200,
+post,Event#206 JobRunr,/images/default.jpg,"['Jobs', 'Scheduler', 'Batch', 'Quartz']",2021-11-01 15:26:00 +0000,JzqO_fxrBxo
+post,Event#298 Distributed tracing with Spring Cloud Sleuth by Oleksandr Belinskyi,/images/feed.jpg,"['Distributed', 'Spring', 'Cloud', 'Sleuth']",2023-11-13 18:27:32 +0000,XW24hEK_sgs
+post,Event#134 Traffic Parrot,/images/default.jpg,"['Testing', 'Traffic Parrot', 'Microservice']",2019-11-11 16:22:00 +0200,
+post,Event#234 10m virtual threads,/images/feed.jpg,"['Java', 'Loom', 'Thread', 'Virtual thread']",2022-08-08 08:40:40 +0000,gd6Pal8_CPc
+post,Event#153 Annotation processing,/images/default.jpg,"['Annotation', 'Video']",2020-10-12 17:23:00 +0200,5ZSrnrmdN5Q
+post,Event#220 Authn and Authz in Spring Security,/images/feed.jpg,"['Authentication', 'Authorization', 'Spring', 'Security']",2022-02-16 08:29:47 +0000,qqtTcEJzXV0
+post,Event#349 Property Based Testing on Java with jqwik by Ivan Verhun,/images/feed.jpg,"['pbt', 'proprety based testing', 'jqwik']",2024-11-19 18:58:05 +0000,
+post,Event#324 GitHub Copilot,/images/feed.jpg,['GitHubCopilot'],2024-05-27 14:16:52 +0000,LnvzkYDo0oI
+post,Event#336 OpenGL by Michael Kami,/images/feed.jpg,['OpenGL'],2024-08-19 14:53:25 +0000,8fC_0upTnKU
+post,Event#345 Aws cdk + LocalStack by Yuriy Stakhniak,/images/feed.jpg,"['Aws', 'cdk', 'LocalStack']",2024-10-21 15:46:35 +0000,MqGcVyuxeRU
+post,Event#312 Offline,/images/feed.jpg,"['Java', 'Offline', 'Club', 'Socializing']",2024-03-05 14:47:24 +0000,
+post,Event#350 k8s manifest generation by Ihor Didyk,/images/feed.jpg,['k8s'],2024-11-25 14:31:54 +0000,
+post,Event#248 Google tink,/images/feed.jpg,"['Cryptography', 'Library', 'API', 'Crossplatform', 'Google']",2022-11-14 10:11:35 +0000,YgA06Xg5fAs
+post,"Event#156 Refactoring Patterns - In practice, Part 3",/images/default.jpg,"['Refactoring Patterns', 'Video']",2020-11-02 15:11:00 +0200,HUCsX1XSb7U
+post,Event #92 Spring cloud function,/images/default.jpg,['Spring function'],2019-01-08 12:53:00 +0200,
+post,Event#192 Chaos Engineering,/images/default.jpg,"['Kubernetes', 'Chaos Engineering', 'Testing']",2021-07-19 13:16:29 +0000,LpIvGdVjSr8
+post,Event#133 DevOxx Ukraine conference overview,/images/default.jpg,"['DevOxx Ukraine', 'Conference']",2019-11-06 10:48:00 +0200,
+post,Event #95 Spring Cloud Data Flow,/images/default.jpg,"['Intro', 'Spring', 'Spring Cloud', 'Data Flow', 'Coding']",2019-01-28 19:1:00 +0200,
+post,Event#347 htmx by Serhii Petrenko,/images/feed.jpg,"['htmx', 'html', 'ajax', 'frontend', 'javascript', 'js', 'fe', 'front end', 'library', 'css', 'transition', 'web socket']",2024-11-04 22:29:01 +0000,
+post,Event#137 Spring Cloud Gateway,/images/default.jpg,"['Spring', 'API Gateway']",2019-12-02 16:15:00 +0200,
+post,Event#58 Docker compose practice,/images/default.jpg,"['Docker', 'Containers', 'Java', 'Coding', 'Compose']",2018-04-30 16:21:00 +0200,
+post,Event#288 Automatic release in GitHub by Oleksii Milovskyi,/images/feed.jpg,"['GitHub', 'Automatic', 'release']",2023-09-05 17:31:30 +0000,kO-gfemGncM
+post,Event#130 Mutational testing practice,/images/default.jpg,"['Mutational testing', 'Coding', 'Testing']",2019-10-15 17:36:00 +0200,
+post,Event#56 Docker for newbies,/images/default.jpg,"['Docker', 'Containers', 'Java']",2018-04-16 16:13:00 +0200,
+post,Event#77 AWS Lambda coding session,/images/default.jpg,"['AWS Lambda', 'AWS', 'Coding']",2018-09-17 17:30:00 +0200,
+post,Event#105 Derive4j,/images/default.jpg,['Derive4j'],2019-04-08 16:26:00 +0200,
+post,Event#163 End of 2020,/images/default.jpg,"['Java', 'BOF', 'Video']",2020-12-23 15:18:00 +0200,8e5zz04LJ7w
+post,Event#226 H2O - AI Cloud Platform,/images/feed.jpg,"['AI', 'H2O']",2022-06-14 15:44:55 +0000,2J0DcRVjnw4
+post,Event#73 Hazelcast summary,/images/default.jpg,"['Hazelcast', 'Summary', 'Sprin Boot']",2018-08-23 15:51:00 +0200,
+post,Event#195 encryption/decryption,/images/default.jpg,"['Java', 'Security', 'Encryption']",2021-08-09 14:36:21 +0000,
+post,Event#104 Istio Monitoring,/images/default.jpg,"['Istio', 'Prometheus', 'Grafana', 'Jaeger']",2019-04-01 16:13:00 +0200,
+post,Lviv Java Club 15.02 Summary,/images/default.jpg,"['Spring', 'Reactive programming', 'MongoDB', 'Websocket', 'Summary']",2018-02-15 18:02:00 +0200,
+post,Event#67 gRPC,/images/default.jpg,"['RPC', 'gRPC']",2018-07-09 18:19:00 +0200,
+post,Event#113 JMH Practice,/images/default.jpg,['JMH'],2019-06-12 15:43:00 +0200,
+post,Event#348 Offline by Ivan V,/images/feed.jpg,['Offline'],2024-11-11 21:26:33 +0000,
+post,Event#139 Spring Cloud Gateway,/images/default.jpg,"['API Gateway', 'Spring']",2019-12-16 16:21:00 +0200,
+post,Event#141 Serverless Framework,/images/default.jpg,"['Serverless', 'AWS']",2020-01-08 12:28:00 +0200,
+post,Event#170 JavaDay Lviv,/images/default.jpg,"['Conference', 'Javadaylviv', 'Lviv', 'Java', 'Javaday']",2021-02-22 16:36:18 +0000,
+post,Event#320 Unit testing of DTOs by Ihor Banadiga,/images/feed.jpg,"['Testing', 'DTO']",2024-04-29 19:56:33 +0000,n0nT_GmfPKM
+post,Event#102 Istio,/images/default.jpg,"['Istio', 'k8s']",2019-03-18 16:12:00 +0200,
+post,Event#184 Mutiny,/images/default.jpg,['Reactive'],2021-05-24 12:38:48 +0000,vVP7i6vNLvg
+post,Event#308 QuestDB,/images/feed.jpg,"['database', 'QuestDB']",2024-02-06 07:27:45 +0000,JVd8tNjh1Kc
+post,Event#85 Axon Framework Coding,/images/default.jpg,"['Coding', 'SQRS', 'Axon']",2018-11-12 16:32:00 +0200,
+post,Event#203 Flowable,/images/default.jpg,"['Flowable', 'BPM']",2021-10-04 13:41:33 +0000,aZHrxnyo6NE
+post,Event#337 Local Sensitive Hashing by Oleksii Milovskyi,/images/feed.jpg,"['Java', 'Hashing']",2024-08-27 07:14:11 +0000,Ws64FAJ8Nj4
+post,Event#135 Resilience4j,/images/default.jpg,"['Resilience4j', 'Functional programming', 'Java', 'JVM']",2019-11-18 16:17:00 +0200,
+post,Event#179 WebSockets on Spring STOMP,/images/default.jpg,"['WebSockets', 'Spring', 'STOMP']",2021-04-19 12:01:28 +0000,A4iejNdr7wc
+post,Event#252 Amazon Cognito,/images/feed.jpg,"['Amazon', 'AWS', 'Cognito']",2022-12-12 21:45:45 +0000,Q9nBEfBjt3Q
+post,Event#334 Offline by Ihor B,/images/feed.jpg,['Offline'],2024-08-05 13:52:04 +0000,
+post,Event#229 Spring for GraphQL,/images/feed.jpg,"['Spring', 'GraphQL', 'Java']",2022-06-27 12:37:22 +0000,qvEymT_2VWU
+post,Event#162 ArchUnit,/images/default.jpg,"['ArchUnit', 'Video']",2020-12-14 15:8:00 +0200,RosJt2Ww_tI
+post,Event#52 OAuth 2.0 Summary,/images/default.jpg,"['OAuth', 'Security', 'Summary']",2018-03-22 12:11:00 +0200,
+post,Event#201,/images/default.jpg,"['Offline', 'Bar', 'Drinks']",2021-09-20 15:02:28 +0000,
+post,Event#215 Log4Shell,/images/feed.jpg,"['Log4Shell', 'Vulnerability', 'CVE-2021-44228']",2022-01-12 14:52:51 +0000,G8nS7lMbfEY
+post,Event#286 K6 Automate Performance and Load Testing,/images/feed.jpg,"['K6', 'Automate', 'Performance', 'Load', 'Testing']",2023-08-14 19:54:19 +0000,Q-QumpaO5sQ
+post,Event#247 AWS CloudFormation,/images/feed.jpg,['CloudFormation'],2022-11-07 13:28:12 +0000,o-bUoCONRIY
+post,Event#189 Javalin,/images/default.jpg,"['Javalin', 'Java']",2021-06-29 17:26:07 +0000,0Qqmkxo-XZM
+post,Event#81 AWS Lambda coding session 5,/images/default.jpg,"['AWS Lambda', 'AWS', 'Recognition', 'SNS', 'AWS ReKognition']",2018-10-17 11:39:00 +0200,
+post,Event#78 AWS Lambda coding session 2,/images/default.jpg,"['AWS Lambda', 'AWS']",2018-09-24 18:50:00 +0200,
+post,Event#330 Intro to GenAI with ChatGPT by Serhii Petrenko,/images/feed.jpg,"['GenAI', 'ChatGPT']",2024-07-08 12:52:48 +0000,6X9MyiQccYU
+post,Event#210 Contract testing with Pact,/images/default.jpg,"['Pact', 'Contract testing', 'Testing']",2021-11-29 18:16:23 +0000,B7fHE5IUdvE
+post,Event#103 Istio,/images/default.jpg,"['Istio', 'Coding']",2019-03-25 15:21:00 +0200,
+post,Event#270 JPAsteramer,/images/feed.jpg,['JPAsteramer'],2023-04-24 14:29:19 +0000,_v0cwoJTfBA
+post,Event#186 Hibernate Search,/images/default.jpg,"['HibernateSearch', 'Hibernate', 'Search']",2021-06-07 18:20:46 +0000,VtMhNx2ctQ4
+post,Event#236 Kubebuilder,/images/feed.jpg,"['Kuberenetes', 'Operator', 'DevOps', 'Cloud-Native']",2022-08-22 14:05:58 +0000,dl926OptxrM
+post,Event#238 Offline event,/images/feed.jpg,['Offline'],2022-09-06 11:10:22 +0000,
+post,Event#217 Spring Boot Micrometer and Actuator,/images/feed.jpg,"['Metrics', 'Spring', 'Spring Boot', 'Actuator', 'Micrometer', 'Observability']",2022-01-24 16:15:37 +0000,_Nk2Gv5AGqQ
+post,No Java Club this week,/images/default.jpg,['Announcement'],2019-07-29 17:47:00 +0200,
+post,Event#178 Spring Integration,/images/default.jpg,"['Spring', 'Integration']",2021-04-14 06:53:28 +0000,z6CG_mF9vQs
+post,Event#282 Java Memory Model,/images/feed.jpg,['JMM'],2023-07-17 14:19:53 +0000,OVEfg7L2y6Y
+post,Event#109 Dagger Practice,/images/default.jpg,['Dagger'],2019-05-13 16:38:00 +0200,
+post,Event#243 Data schema evolution,/images/feed.jpg,"['Protobuf', 'Avro']",2022-10-10 18:09:09 +0000,4DOyQ2p9x0Y
+post,Event#61 JUnit 5 coding battle Summary,/images/default.jpg,"['Testing', 'JUnit']",2018-05-24 13:09:00 +0200,
+post,Event#160 GitHub Actions,/images/default.jpg,"['GitHub', 'GitHub Actions', 'CICD', 'Video']",2020-12-01 10:53:00 +0200,tvqt9PkTF8w
+post,Event#46 Spring 5,/images/default.png,"['Spring5', 'Coding']",2018-01-30 16:30:00 +0200,
+post,Event#87 DevoxUa follow-up,/images/default.jpg,"['DevOxx Ukraine', 'Conference']",2018-11-26 16:27:00 +0200,
+post,Event#177 Spring Cloud Contract,/images/default.jpg,"['Spring', 'Cloud', 'Spring Cloud Contract', 'Testing']",2021-04-05 16:10:16 +0000,Ye8EN8FW4-8
+post,Event#114 Knative,/images/default.jpg,['Knative'],2019-06-19 15:43:00 +0200,
+post,Event#183 Nimbus JOSE,/images/default.jpg,['Nimbus JOSE'],2021-05-18 12:03:55 +0000,bw02tiAiT3Y
+post,Event#283 Java ByteCode,/images/feed.jpg,"['JVM', 'Bytecode']",2023-07-24 18:28:14 +0000,AeMygytNxKU
+post,Event#49 HTTP2,/images/default.jpg,"['Http2', 'Intro']",2018-02-20 16:47:00 +0200,
+post,Event#202 JBehave,/images/default.jpg,['JBehave'],2021-09-29 18:59:44 +0000,q37g5N_M1B4
+post,Event#223 Keycloak,/images/feed.jpg,['Keycloak'],2022-05-23 14:12:23 +0000,y7ANhhprMj0
+post,Event#147 JavaDay Lviv,/images/default.jpg,"['Java', 'JavaDay', 'Conference']",2020-02-17 16:17:00 +0200,
+post,Event#317 Spring Boot Actuator,/images/feed.jpg,"['spring', 'spring boot', 'actuator', 'monitoring', 'tools', 'frameworks']",2024-04-09 08:39:46 +0000,EPofdr6Y5DE
+post,Event#108 JEEConf 2019,/images/default.jpg,"['JEEConf', 'Conference']",2019-04-30 19:10:00 +0200,
+post,Event#266 GraalVM,/images/feed.jpg,['GraalVM'],2023-03-27 14:14:48 +0000,TMwMyTckMA0
+post,Event#148 jOOQ,/images/default.jpg,"['Jooq', 'Persistance']",2020-02-24 16:7:00 +0200,
+post,Event#346 Apache flink by Ivan Shevtsov,/images/feed.jpg,"['Flink', 'Apache']",2024-10-29 12:46:35 +0000,fGOrUul1LlQ
+post,Event#280 Indexing database,/images/feed.jpg,"['database', 'index', 'performance', 'sql']",2023-07-03 14:04:50 +0000,d-frKj_Oltk
+post,Event#230 Tools overview,/images/feed.jpg,"['Tools', 'Productivity']",2022-07-05 18:06:06 +0000,yPnzq3QbNzc
+post,Event#167 API Gateway,/images/default.jpg,"['API Gateway', 'Spring']",2021-02-02 19:04:47 +0000,X2K6_0FFPMI
+post,Event#221 Java 18,/images/feed.jpg,['Java'],2022-05-10 09:30:36 +0000,TqWwKWmIBdo
+post,Announcement,/images/default.jpg,['Announcement'],2020-03-17 18:20:00 +0200,
+post,Event#61 JUnit 5 coding battle,/images/default.jpg,"['JUnit', 'Testing', 'Coding']",2018-05-21 16:07:00 +0200,
+post,Cyber-defense vacation,/images/feed.jpg,"['StopRussia', 'StopRussianAggression', 'RussiaInvadedUkraine', 'RussiaInvadesUkraine']",2022-03-01 16:43:08 +0000,
+post,Event#331 Light-4J by Sergii Bishyr,/images/feed.jpg,"['Java', 'Rest', 'Framework', 'Lightweight']",2024-07-16 12:17:51 +0000,MKHAPPiHTkg
+post,Event#231 Liquibase,/images/feed.jpg,['Liquibase'],2022-07-13 11:24:27 +0000,schWwMPPX-A
+post,Event#172 Blockchain,/images/default.jpg,['Blockchain'],2021-03-10 15:32:09 +0000,9tsit6fgILI
+post,Event#80 AWS Lambda coding session 4 summary,/images/default.jpg,"['SNS', 'AWS Lambda', 'AWS', 'Summary']",2018-10-11 15:36:00 +0200,
+post,Event#45 Spring 5,/images/default.png,"['Spring5', 'Intro']",2018-01-23 16:30:00 +0200,
+post,Event#295 Java EE to Spring framework comparison,/images/feed.jpg,"['JavaEE', 'Jakarta', 'SpringFramework']",2023-10-26 16:50:09 +0000,8VnXVis8X6M
+post,Event#86 Axon Framework Coding Summary,/images/default.jpg,"['Coding', 'CQRS', 'Axon']",2018-11-22 11:24:00 +0200,
+post,Event#65 GraphQL in action Summary,/images/default.jpg,"['Summary', 'GraphQL']",2018-06-21 19:48:00 +0200,
+post,Event#199 Reactive Relational Database Connectivity (R2DBC),/images/default.jpg,"['R2DBC', 'Reactive', 'DB']",2021-09-08 07:42:26 +0000,Y_p04-jNpMY
+post,Event#58 Docker compose practice summary,/images/default.jpg,"['Docker', 'Containers', 'Java', 'Coding', 'Compose', 'Summary']",2018-05-03 11:33:00 +0200,
+post,Event#168 Spring Cloud Circuit Breaker.,/images/default.jpg,"['Spring Cloud', 'Circuit Breaker']",2021-02-09 17:21:57 +0000,vN_UUT-4GEI
+post,Event#63 Kubernetes practice,/images/default.jpg,"['k8s', 'Kubernetes', 'Google', 'Cloud']",2018-06-04 16:51:00 +0200,
+post,Event#140 2019 Summary and Pizza,/images/default.jpg,"['API Gateway', 'Spring', 'Java', 'Pizza', 'Summary']",2019-12-23 16:21:00 +0200,
+post,Event#344 Load balancer by Oleksandr Belinskyi,/images/feed.jpg,['load balancer'],2024-10-16 09:30:59 +0000,ZkxG_RP5Yws
+post,Event#49 HTTP2 Summary,/images/default.jpg,"['Http2', 'Summary', 'Jetty']",2018-02-22 11:47:00 +0200,
+post,Event#71 Hazelcast,/images/default.jpg,['Hazelcast'],2018-08-06 20:34:00 +0200,
+post,Event#300 Streaming the result of a Query execution by Jaroslav Mazurak,/images/feed.jpg,"['Stream', 'Query', 'SQL', 'monitoring']",2023-11-28 17:22:13 +0000,OtvatFAGZT8
+post,Event#332 Spring Batch by Yaroslav Mazurak,/images/feed.jpg,"['Spring', 'Batch']",2024-07-23 18:28:58 +0000,U4LAuFOq3Qo
+post,Event#301 JOOQ by Andriy Riy,/images/feed.jpg,"['JOOQ', 'Database', 'DB']",2023-12-05 18:54:46 +0000,tl74mlq3BDU
+post,Event#66 GraphQL in action,/images/default.jpg,['GraphQL'],2018-07-02 18:11:00 +0200,
+post,Event#146 Spring Cloud Schema Registry,/images/default.jpg,"['Spring Cloud', 'Schema register']",2020-02-12 15:51:00 +0200,
+post,Event#284 Apache Phoenix,/images/feed.jpg,['ApachePhoenix'],2023-08-01 04:37:33 +0000,mB7oNS4Q7NY
+post,Event#182: IntelliJ IDEA 2021.1,/images/default.jpg,"['IntelliJ', 'IDEA']",2021-05-10 20:06:21 +0000,D1rPDaGcOdA
+post,Event#80 AWS Lambda coding session 4,/images/default.jpg,"['DynamoDB', 'AWS', 'Lambda', 'SNS']",2018-10-08 16:12:00 +0200,
+post,Event#258 Spring Security ACL,/images/feed.jpg,"['Spring', 'Security', 'ACL']",2023-01-30 15:17:55 +0000,S3pq8-VN0Lo
+post,Event#200 java 17,/images/default.jpg,"['Java', 'JEP']",2021-09-13 16:27:39 +0000,YfBehwEuuH4
+post,Event#145 Spring Cloud Schema Registry,/images/default.jpg,"['Spring Cloud', 'Schema register']",2020-02-03 16:21:00 +0200,
+post,Lviv Java Club 08.02 Summary,/images/default.png,"['Spring5', 'Summary']",2018-02-08 13:30:00 +0200,
+post,Event#219 Spring REST Docs,/images/feed.jpg,"['Spring', 'REST', 'Asciidoctor', 'Test']",2022-02-07 20:46:45 +0000,KkEgvyyyfT4
+post,Event#74 Hazelcast jet,/images/default.jpg,"['Hazelcast', 'Hazelcast jet']",2018-08-27 16:7:00 +0200,
+post,Event #97 Elasticsearch,/images/default.jpg,['Elasticsearch'],2019-02-11 16:37:00 +0200,
+post,Event#85 Axon Framework Coding Summary,/images/default.jpg,"['Coding', 'SQRS', 'Axon']",2018-11-15 11:56:00 +0200,
+post,Event#237 Regular expression,/images/feed.jpg,"['Regular', 'RegExp']",2022-08-29 14:28:15 +0000,4j33gsJp_vM
+post,Event#124 JProfiler,/images/default.jpg,['JProfiler'],2019-09-02 18:6:00 +0200,
+post,Event#289 [Dropwizard] Metrics by Jaroslav Mazurak,/images/feed.jpg,"['Dropwizard', 'Metrics']",2023-09-11 14:12:13 +0000,TpZm4SC1-Fs
+post,Event#197 OWASP Top 10,/images/default.jpg,['OWASP'],2021-08-23 12:47:02 +0000,
+post,Event#341 Intro to HTTPie from developer by Roman Kniazevych,/images/feed.jpg,['Httpie'],2024-09-24 10:41:22 +0000,yGflzkhBRKc
+post,Event#50 HTTP2 Summary,/images/default.jpg,"['Http2', 'Jetty', 'Coding', 'Https', 'Summary']",2018-03-01 11:32:00 +0200,
+post,Event #93 Spring cloud function codding,/images/default.jpg,"['Spring Cloud', 'Riff', 'Coding']",2019-01-14 16:32:00 +0200,
+post,Event#64 GraphQL Summary,/images/default.jpg,"['GraphQL', 'Summary']",2018-06-14 16:32:00 +0200,
+post,Event#154 Refactoring Patterns,/images/default.jpg,"['Refactoring Patterns', 'Video']",2020-10-20 11:20:00 +0200,UKEMHCUFDnw
+post,Event#244 JetBrains Fleet,/images/feed.jpg,"['JetBrains', 'Fleet']",2022-10-18 08:35:38 +0000,xm7_9RjGTog
+post,Event#296 Offline event,/images/feed.jpg,['Offline'],2023-10-30 21:41:46 +0000,
+post,Event #92 Spring cloud function summary,/images/default.jpg,['Spring function'],2019-01-10 11:23:00 +0200,
+post,Event#88 Monitoring applications with Prometheus,/images/default.jpg,"['Prometheus', 'Monitoring', 'Alerting']",2018-12-04 15:49:00 +0200,
+post,Event#188  Spring Native,/images/default.jpg,"['GraalVM', 'Spring']",2021-06-23 21:48:47 +0000,GrOlxJ85dtc
+post,Event#63 Kubernetes practice Summary,/images/default.jpg,"['k8s', 'Kubernetes', 'Summary', 'Coding', 'Google', 'Cloud']",2018-06-07 18:37:00 +0200,
+post,Event#70 gRPC Coding summary,/images/default.jpg,"['gRPC', 'Summary']",2018-08-02 15:21:00 +0200,
+post,Event#164 Performance,/images/default.jpg,"['JMH', 'Performance', 'Garbage collector']",2021-01-11 13:30:59 +0000,6rCA-w_cSxw
+post,Event#302 Spring boot news,/images/feed.jpg,"['Spring', 'Boot']",2023-12-12 23:05:34 +0000,Fze4mG5DXRQ
+post,Event#89 Monitoring applications with Prometheus,/images/default.jpg,"['Prometheus', 'Monitoring', 'Alerting']",2018-12-10 16:48:00 +0200,
+post,Event#116 Knative Practice,/images/default.jpg,"['Knative', 'Kubernetes', 'k8s']",2019-07-01 16:13:00 +0200,
+post,Event#123 Picocli,/images/default.jpg,"['Picocli', 'CLI']",2019-08-27 15:26:00 +0200,
+post,Event#142 Serverless Framework,/images/default.jpg,"['Serverless', 'AWS', 'Lambda']",2020-01-13 16:30:00 +0200,
+post,Event#138 Spring Cloud Gateway,/images/default.jpg,"['API Gateway', 'Spring']",2019-12-09 16:28:00 +0200,
+post,Event#96 Spring Cloud Data Flow coding,/images/default.jpg,"['Spring', 'Data Flow']",2019-02-04 16:7:00 +0200,
+post,Event#68 Tic Tac Toe,/images/default.jpg,['gRPC'],2018-07-16 16:36:00 +0200,
+post,Event#143 Serverless Framework,/images/default.jpg,"['Serverless', 'AWS', 'API Gateway', 'Lambda']",2020-01-20 16:9:00 +0200,
+post,Event#287 Introduction to PASETO,/images/feed.jpg,['PASETO'],2023-08-28 14:15:12 +0000,_JeNwXVF5U0
+post,Event#121 Keycloack in action,/images/default.jpg,"['Keycloack', 'Javalin', 'Thymeleaf']",2019-08-12 16:19:00 +0200,
+post,Event #101 Istio,/images/default.jpg,['Istio'],2019-03-11 18:24:00 +0200,
+post,Event#62 Kubernetes - video session,/images/default.jpg,"['k8s', 'Kubernetes', 'Google', 'Cloud']",2018-05-31 14:52:00 +0200,
+post,Event#222 AWS ECS - Devops for dummies,/images/feed.jpg,"['AWS', 'ECS']",2022-05-16 14:07:39 +0000,9z9cy0v6Y6M
+post,Event#64 GraphQL,/images/default.jpg,['GraphQL'],2018-06-11 16:56:00 +0200,
+post,Event#191 Distributed Locks and Single Leader election with Spring Integration,/images/default.jpg,"['Java', 'Spring Integration', 'Locks', 'LeaderElection']",2021-07-13 18:09:19 +0000,QHuTjUPka2M
+post,Event#240 Java 19,/images/feed.jpg,['Java'],2022-09-19 18:47:31 +0000,nng3hxWsIsU
+post,Event#161 Camunda,/images/default.jpg,"['Camunda', 'Spring Boot', 'Saga', 'Video']",2020-12-08 15:14:00 +0200,nF-NjjyhHtw
+post,Event #99 2.0 celebration,/images/default.jpg,"['JavaDay', 'Pizza']",2019-02-26 18:26:00 +0200,
+post,Event#181 OpenTelemetry,/images/default.jpg,"['Telemetry', 'Cloud-native', 'Observability']",2021-05-05 08:41:31 +0000,h8XK3Lie8-c
+post,Event#326 Beyond Bits Exploring the World of Quantum Computing by Ivan Verhun,/images/feed.jpg,"['Quantum', 'Computing', 'Bit', 'Qubit', 'Entanglement', 'Superposition', 'Interference', 'Probability']",2024-06-11 10:20:42 +0000,9ztqgNrE-uE
+post,Event#209 Telepresence,/images/default.jpg,"['Kubernetes', 'Telepresence']",2021-11-23 14:12:40 +0000,7lhMfxCHvgk
+post,Event#107 Dagger,/images/default.jpg,"['Dagger', 'Google', 'Dependency', 'Injection']",2019-04-22 16:31:00 +0200,
+post,Event#69 gRPC Summary,/images/default.jpg,"['Summary', 'gRPC']",2018-07-26 13:39:00 +0200,
+post,Event#272 AWS Step Function,/images/feed.jpg,"['aws', 'functions', 'streaming']",2023-05-08 14:06:02 +0000,ESXiIpmbfAw
+post,Event#304 JVM methods invocations,/images/feed.jpg,['JVM'],2024-01-08 15:42:58 +0000,5LhZFoF4XhI
+post,Event#333 Polyglot programming with graalVM by Ihor Didyk,/images/feed.jpg,"['Polyglot', 'GraalVM']",2024-07-29 19:25:13 +0000,9Bx0MsuFhzQ
+post,Event#343 GitHub workflow by Ihor Banadiga,/images/feed.jpg,"['GitHub', 'workflow', 'actions']",2024-10-07 22:25:55 +0000,IYvAxucO2so
+post,Event#260 Database Rider,/images/feed.jpg,"['DatabaseRider', 'dbunit', 'junit', 'testing']",2023-02-13 21:17:01 +0000,fkhGVlM-5xg
+post,Event#60 JUnit 5 coding battle,/images/default.jpg,"['Summary', 'Coding', 'JUnit', 'Testing', 'Battle']",2018-05-17 16:02:00 +0200,
+post,Event#53 Google OAuth 2.0 Summary,/images/default.jpg,"['Summary', 'OAuth', 'Security', 'Coding', 'Google']",2018-03-29 19:22:00 +0200,
+post,Event#122 Keycloack in action,/images/default.jpg,['Keycloack'],2019-08-19 16:7:00 +0200,
+post,Event#224 How to save your lifetime on creating diagrams,/images/feed.jpg,['Lucidchart'],2022-05-30 14:27:09 +0000,QrijEe3t8Fo
+post,Event#75 1.5 years,/images/default.jpg,"['Pizza', 'BOF']",2018-09-03 16:30:00 +0200,
+post,Event#74 Hazelcast jet summary,/images/default.jpg,"['Hazelcast', 'Hazelcast jet']",2018-08-30 12:15:00 +0200,
+post,Event#269 Apple and Google Pay,/images/feed.jpg,"['payment', 'apple', 'google', 'pay']",2023-04-17 19:15:02 +0000,KxJYt3v20v0
+post,Event#120 Keycloack,/images/default.jpg,['Keycloack'],2019-08-07 15:56:00 +0200,
+post,Event#321 Offline,/images/feed.jpg,['Offline'],2024-05-06 14:22:54 +0000,
+post,Event#327 Criteria API by Volodymyr Yastrubchak,/images/feed.jpg,"['JPA', 'Criteria API']",2024-06-17 14:00:02 +0000,02RnREr4vag
+post,Event#111 Quarkus in practice,/images/default.jpg,"['JVM', 'Quarkus']",2019-05-27 16:12:00 +0200,
+post,Event#151 Lviv Java Club is back!,/images/default.jpg,"['Java', 'JVM']",2020-09-29 15:26:00 +0200,
+post,Event#274 Telegram bot on Java,/images/feed.jpg,"['TelegramBot', 'Bot']",2023-05-23 19:16:08 +0000,fVJx0HKPkk0
+post,Event#149 jOOQ,/images/default.jpg,"['Jooq', 'Persistance']",2020-02-27 16:7:00 +0200,
+post,Event#51 One year,/images/default.jpg,['BOF'],2018-03-13 13:43:00 +0200,
+post,Event#273 Offline,/images/feed.jpg,['Offline'],2023-05-15 14:32:30 +0000,
+post,Event#250 Offline event,/images/feed.jpg,['Offline'],2022-11-28 15:12:40 +0000,
+post,Event#117 Knative Practice,/images/default.jpg,"['Knative', 'Kubernetes', 'k8s']",2019-07-08 16:19:00 +0200,
+post,Event#325 Mirrord,/images/feed.jpg,"['Mirrord', 'Kubernetes', 'Java']",2024-06-03 14:30:47 +0000,Y5SY-29odnM
+post,Event#166 Spring Cloud Config over Discovery,/images/default.jpg,"['Spring', 'Cloud', 'Consul', 'Discovery Config']",2021-01-25 16:41:08 +0000,KKl8Uzxg144
+post,Event#225 Cloud Events,/images/feed.jpg,['CloudEvents'],2022-06-06 19:53:38 +0000,OVBrgqV2-Rg
+post,Event#311 Enter in to IT by Yuriy Stakhniak,/images/feed.jpg,['IT'],2024-02-26 18:57:23 +0000,aak6kreY-Lo
+post,Event#239 Reactive Systems In Java,/images/feed.jpg,"['Reactive', 'Java']",2022-09-12 13:24:10 +0000,5XwAZVHk6YU
+post,Event#196 BurpSuite,/images/default.jpg,['BurpSuite'],2021-08-17 16:53:21 +0000,ctE2jLaIAEg
+post,Event#297 Two databases in one application by Ihor Banadiga,/images/feed.jpg,"['Databases', 'Replication', 'MultiDb']",2023-11-07 20:42:45 +0000,4Y7oqvX-vLg
+post,Event#76 AWS Lambda Intro,/images/default.jpg,"['AWS Lambda', 'AWS', 'API Gateway', 'AWS Cognito']",2018-09-13 11:27:00 +0200,
+post,Event#314 Java 22,/images/feed.jpg,"['java', 'release', 'java22', 'jdk', 'jvm']",2024-03-19 08:12:05 +0000,2N23SC8NSUU
+post,Event#232 VMs and Containers,/images/feed.jpg,"['KVM', 'LXC', 'VMs', 'Containers']",2022-07-25 14:10:13 +0000,844ED4QWY54
+post,Event#299 What is new in Hibernate 6,/images/feed.jpg,"['Hibernate', 'new features', 'java', 'ORM', 'JPA', 'Persistence', 'Database']",2023-11-20 16:38:12 +0000,
+post,Event#84 Axon Framework,/images/default.jpg,"['Axon', 'CQRS']",2018-11-05 17:37:00 +0200,
+post,Event#315 Spring AI,/images/feed.jpg,"['Spring', 'Spring Framework', 'AI', 'Machine Learning']",2024-03-25 14:04:23 +0000,QRj6LDbSsiM
+post,Event#66 GraphQL in action Summary,/images/default.jpg,"['Summary', 'GraphQL']",2018-07-05 22:31:00 +0200,
+post,Event#261 Using C++ library in java,/images/feed.jpg,"['cpp', 'java', 'lib', 'library', 'JNI']",2023-02-20 15:22:44 +0000,dmLbM4NPUsM
+post,Event#84 Axon Framework Summary,/images/default.jpg,"['Axon', 'CQRS', 'Summary']",2018-11-09 13:18:00 +0200,
+post,Event#253 Unix commands,/images/feed.jpg,"['Linux', 'CLI']",2022-12-19 08:22:59 +0000,34jWpQRf-fQ
+post,Event#175 Java 16,/images/default.jpg,"['JVM', 'Java']",2021-03-22 16:38:33 +0000,inYHr8u_0zA
+post,Event#290 java 21,/images/feed.jpg,"['java', 'new release', 'java 21']",2023-09-18 14:04:06 +0000,VKVE7XJn9-U
+post,Event#257 Advertising Technology,/images/feed.jpg,['adtech'],2023-01-23 15:12:39 +0000,R9rCs9vVZjQ
+post,Event#212 Spring Data JDBC,/images/default.jpg,['Spring Data JDBC'],2021-12-13 19:59:26 +0000,qlYkLFXVdNQ
+post,Event#254 2022 Retro,/images/feed.jpg,['Retrospective'],2022-12-28 08:24:50 +0000,
+post,Event#71 Hazelcast summary,/images/default.jpg,"['Hazelcast', 'IMDG', 'Summary']",2018-08-09 11:7:00 +0200,
+post,Event#72 Hazelcast,/images/default.jpg,['Hazelcast'],2018-08-13 17:15:00 +0200,
+post,Event#316 Avaje HTTP client overview by Jaroslav Mazurak,/images/feed.jpg,"['Wrapper', 'Http Client', 'Lightweight', 'Avaje']",2024-04-02 13:16:20 +0000,R_0Ml_QK1N8
+post,Event#56 Docker for newbies Summary,/images/default.jpg,"['Docker', 'Containers', 'Java']",2018-04-19 12:21:00 +0200,
+post,Event#110 Quarkus,/images/default.jpg,"['JVM', 'Quarkus']",2019-05-20 16:32:00 +0200,
+post,Event#127 GraalVM,/images/default.jpg,['GraalVM'],2019-09-25 15:12:00 +0200,
+post,Event#83 Networking,/images/default.jpg,"['Networking', 'Workshop']",2018-10-29 16:53:00 +0200,
+post,Event#218 JDBI as a library to build repositories,/images/feed.jpg,"['JDBI', 'Repository']",2022-01-31 18:35:47 +0000,DgeGnOc67Ss
+post,Event#119 Deeplearning4j,/images/default.jpg,"['Deeplearning4j', 'ML']",2019-07-23 12:29:00 +0200,
+post,Event#259 Spring Cloud Config,/images/feed.jpg,"['Spring', 'Cloud', 'Config']",2023-02-06 16:05:13 +0000,ThkwroEsGFs
+post,Event#69 gRPC,/images/default.jpg,"['RPC', 'gRPC']",2018-07-23 18:19:00 +0200,
+post,Event#77 AWS Lambda coding session summary,/images/default.jpg,"['AWS Lambda', 'AWS', 'Coding']",2018-09-20 15:55:00 +0200,
+post,Event#59 JUnit 5,/images/default.jpg,"['JUnit', 'Testing']",2018-05-08 10:15:00 +0200,
+post,Event#285 Offline event,/images/feed.jpg,['Offline'],2023-08-07 19:29:49 +0000,
+post,Event#265 java 20 updates,/images/feed.jpg,"['java20', 'release']",2023-03-20 15:18:44 +0000,Nc2bKjCuYL4
+post,Event#267 Kaitai,/images/feed.jpg,"['Kaitai', 'binary']",2023-04-03 16:13:44 +0000,4zW7tv6qyqI
+post,Event#235 Spock,/images/feed.jpg,"['Spock', 'Testing']",2022-08-15 15:46:08 +0000,Y_sZPvvcvMk
+post,Event#255 Snyk,/images/feed.jpg,['Snyk'],2023-01-09 14:33:26 +0000,BQWesBxbqWQ
+post,Event#129 Mutational testing,/images/default.jpg,['Testing'],2019-10-07 16:7:00 +0200,
+post,Event#340 Java 23 by Oleh Melnyk,/images/feed.jpg,"['java', 'new release', 'java 23']",2024-09-16 12:06:06 +0000,zJ98MZxaDaw
+post,Event#262 UI and UX for backend developers,/images/feed.jpg,"['UI', 'UX']",2023-02-28 07:24:15 +0000,qPgg2BE5Ltk
+post,Event#279 PlantUML Generator - by Roman Kniazevych,/images/feed.jpg,"['PlantUMLGenerator', 'UML']",2023-06-26 14:09:06 +0000,vPqWdw4i7MA
+post,Event#246 libvirt. Managing VMs with virsh,/images/feed.jpg,"['KVM', 'LXC', 'VMs', 'Containers']",2022-10-31 13:34:43 +0000,GEOb0ChJbLY
+post,Event#251 Testing in Reactive Systems,/images/feed.jpg,"['Testing', 'Reactor']",2022-12-05 09:02:52 +0000,BXmpcu7InaQ
+post,Event#43 WebSocket,/images/default.png,"['Websocket', 'Intro']",2018-01-09 16:30:00 +0200,
+post,Event#322 Web vulnerabilities in Java Spring,/images/feed.jpg,"['vulnerabilities', 'spring', 'webapps', 'spring framework']",2024-05-14 07:05:35 +0000,WOsKq4RiOP0
+post,Event#176 GraphQL Federation,/images/default.jpg,"['Scaling', 'GraphQL', 'Federation']",2021-03-29 18:04:42 +0000,-LL3rCWjMmw
